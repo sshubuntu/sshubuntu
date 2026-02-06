@@ -60,13 +60,10 @@
 ![OWASP](https://img.shields.io/badge/OWASP-99CC00?style=for-the-badge&logo=owasp&logoColor=white)
 ![SpotBugs](https://img.shields.io/badge/SpotBugs-000000?style=for-the-badge&logo=spotbugs&logoColor=white)
 
-## 📊 GitHub Stats
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sshubuntu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshubuntu&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sshubuntu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sshubuntu&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sshubuntu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 📫 Contact
