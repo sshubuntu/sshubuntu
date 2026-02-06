@@ -11,5 +11,4 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=sshubuntu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sshubuntu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sshubuntu&theme=radical" alt="GitHub Trophies" />
 </div>
