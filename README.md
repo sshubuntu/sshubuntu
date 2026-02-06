@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Hey+there,+I'm+Egor!;DevOps+Engineer+%F0%9F%9A%80;Building+scalable+systems+%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Hey+there,+I'm+Egor!;DevOps+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ## 🛠️ Tech Stack
@@ -23,7 +23,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-E94328?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![SemaphoreCI](https://img.shields.io/badge/SemaphoreCI-19A974?style=for-the-badge&logo=semaphoreci&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Monitoring & Observability
@@ -60,17 +60,23 @@
 ![OWASP](https://img.shields.io/badge/OWASP-99CC00?style=for-the-badge&logo=owasp&logoColor=white)
 ![SpotBugs](https://img.shields.io/badge/SpotBugs-000000?style=for-the-badge&logo=spotbugs&logoColor=white)
 
-<br>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sshubuntu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshubuntu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sshubuntu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sshubuntu&theme=radical" alt="GitHub Trophies" />
+</div>
+
 ## 📫 Contact
 
 <div align="center">
-  
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sshubuntu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sshubuntuwork@gmail.com)
 
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sshubuntu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
